@@ -43,6 +43,11 @@ vue-cropper : <https://github.com/xyxiao001/vue-cropper>
 vue-lazyload : <https://www.npmjs.com/package/vue-lazyload>
 vue-simple-upload : <https://github.com/saivarunk/vue-simple-upload>
 
+## 富文本编辑器
+
+> wangEditor 个人开源，轻度使用
+> 生产重度使用，还是要基于团队开发或者成功商业化的开源产品做二次开发，这样长期投入成本更低，比如 CKEditor/TinyMCE，或者 quill editor/draft.js 等热门更新产品；很多极端情况人家都有做处理的，和浏览器，其他框架的兼容性也是有考虑的，有专门的测试团队跟进，产品迭代也很频繁，这跟一两个人搞开源项目有本质区别
+
 ## nodejs
 
 express: 2010 年 1 月发布,目前 star 和下载量最高的老牌框架
@@ -55,4 +60,4 @@ egg 17.6k （2016 年 7 月） 阿里开源的 node.js 框架，国内使用较�
 
 ### API 文档、API 调试、API Mock、API 自动化测试
 
-Apifox: <https://www.apifox.cn/>
+ApiFox: <https://www.apifox.cn/>
